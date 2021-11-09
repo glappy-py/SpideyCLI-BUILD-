@@ -1,1 +1,1 @@
-pls work 
+This repository contains the build files for [SpideyCLI](https://github.com/glappy-py/spideycli). It is recommended not to clone this repository or download any of the releases. [SpideyCLI](https://github.com/glappy-py/spideycli) should be installed only by using the spidey cli installer which you can find in the releases of SpideyCLI repository or in the projects page of [projectsofglappy.tk](https://www.projectsofglappy.tk)
